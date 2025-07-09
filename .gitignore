@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Arquivos temporários comuns em planilhas e SPSS
+*.sav~
+*.tmp
+*.bak
+*.lock
