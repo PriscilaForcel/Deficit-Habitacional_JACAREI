@@ -14,13 +14,18 @@ A organização dos dados foi realizada no âmbito da pesquisa de mestrado desen
 
 ## Arquivos disponíveis
 
-- **DÉFICIT_DOMICILIO.sav** — Banco de dados com estimativas do déficit habitacional urbano por domicílio.  
-- **DÉFICIT_PESSOAS.sav** — Banco de dados com estimativas do déficit habitacional urbano por pessoa.  
 - **DÉFICIT_JACAREÍ.xlsx** — Planilha resumo com os resultados agregados por Área de Ponderação, organizada em duas abas:
   - **Aba 1: Déficit habitacional por domicílio** — Número de domicílios classificados como “sem déficit” ou enquadrados em cada subcategoria do déficit (improvisados, rústicos, cômodos, famílias conviventes, ônus excessivo, adensamento excessivo).
   - **Aba 2: Déficit habitacional por pessoa** — Número de pessoas que vivem em domicílios com ou sem déficit, segundo os mesmos critérios e subcomponentes.
+ > Obs.: Cada aba também apresenta o total de unidades em déficit (domicílios ou pessoas) e o total de unidades existentes em cada Área de Ponderação.
 
-> Obs.: Cada aba também apresenta o total de unidades em déficit (domicílios ou pessoas) e o total de unidades existentes em cada Área de Ponderação.
+- **DÉFICIT_DOMICILIO.sav** — Banco de dados com estimativas do déficit habitacional urbano por domicílio.  
+
+- **DÉFICIT_PESSOAS.sav** — Banco de dados com estimativas do déficit habitacional urbano por pessoa.  
+
+- **Sintaxe_DEFICIT.txt** — Sintaxe do cálculo do déficit por domicílios
+
+
 
 ---
 
