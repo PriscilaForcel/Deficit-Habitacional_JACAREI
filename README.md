@@ -1,4 +1,4 @@
-#Déficit Habitacional em Jacareí-SP
+# Déficit Habitacional em Jacareí-SP
 
 Este repositório reúne os arquivos utilizados na análise do déficit habitacional no município de Jacareí-SP, com base nos microdados do Censo Demográfico de 2010 (IBGE). Os dados foram tratados e organizados conforme os critérios metodológicos da Fundação João Pinheiro (FJP), respeitando a definição dos quatro componentes do déficit habitacional:
 - Habitação precária;  
@@ -12,7 +12,7 @@ A organização dos dados foi realizada no âmbito da pesquisa de mestrado desen
 
 ---
 
-##Arquivos disponíveis
+## Arquivos disponíveis
 
 - **DÉFICIT_DOMICILIO.sav** — Banco de dados com estimativas do déficit habitacional urbano por domicílio.  
 - **DÉFICIT_PESSOAS.sav** — Banco de dados com estimativas do déficit habitacional urbano por pessoa.  
@@ -24,13 +24,13 @@ A organização dos dados foi realizada no âmbito da pesquisa de mestrado desen
 
 ---
 
-##Aviso
+## Aviso
 
 Todos os dados foram extraídos dos microdados públicos do Censo 2010 (IBGE) e organizados exclusivamente para fins acadêmicos e de pesquisa. O uso e reprodução dos dados devem respeitar os termos de uso do IBGE e a citação adequada desta pesquisa.
 
 ---
 
-##Sobre a pesquisa
+## Sobre a pesquisa
 
 **Título:** *Déficits Habitacionais: os limites da interpretação do fenômeno*  
 **Autora:** Priscila Kauana Barelli Forcel  
@@ -43,7 +43,7 @@ Todos os dados foram extraídos dos microdados públicos do Censo 2010 (IBGE) e 
 
 ---
 
-##Licença
+## Licença
 
 Este repositório está licenciado sob os termos da **Creative Commons - Atribuição 4.0 Internacional (CC BY 4.0)**.
 
