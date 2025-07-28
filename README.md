@@ -1,9 +1,9 @@
 # Déficit Habitacional em Jacareí-SP
 
 Este repositório reúne os arquivos utilizados na análise do déficit habitacional no município de Jacareí-SP, com base nos microdados do Censo Demográfico de 2010 (IBGE). Os dados foram tratados e organizados conforme os critérios metodológicos da Fundação João Pinheiro (FJP), respeitando a definição dos quatro componentes do déficit habitacional:
-- Habitação precária;  
-- Coabitação familiar não desejada;  
-- Ônus excessivo com aluguel;  
+- Habitação precária;
+- Coabitação familiar não desejada;
+- Ônus excessivo com aluguel;
 - Adensamento excessivo em domicílios alugados.
 
 A base foi estruturada a partir do recorte urbano do município, espacializada por Áreas de Ponderação e classificada segundo a condição de déficit ou não, tanto na escala dos domicílios quanto de pessoas.
@@ -12,7 +12,7 @@ A organização dos dados foi realizada no âmbito da pesquisa de mestrado desen
 
 ---
 
-## Arquivos disponíveis
+## Arquivos disponíveis:
 
 - **DÉFICIT_JACAREÍ.xlsx** — Planilha resumo com os resultados agregados por Área de Ponderação, organizada em duas abas:
   - **Aba 1: Déficit habitacional por domicílio** — Número de domicílios classificados como “sem déficit” ou enquadrados em cada subcategoria do déficit (improvisados, rústicos, cômodos, famílias conviventes, ônus excessivo, adensamento excessivo).
@@ -25,6 +25,7 @@ A organização dos dados foi realizada no âmbito da pesquisa de mestrado desen
 
 - **Sintaxe_DEFICIT.txt** — Sintaxe do cálculo do déficit por domicílios
 
+- [MAPAS](https://github.com/PriscilaForcel/Deficit-Habitacional_JACAREI/tree/main/MAPAS) — A pasta MAPAS contém as visualizações espaciais do déficit habitacional por Área de Ponderação, para cada componente da metodologia da FJP.
 
 
 ---
