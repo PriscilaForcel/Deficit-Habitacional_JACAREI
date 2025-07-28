@@ -15,12 +15,3 @@ Esta pasta reúne os mapas produzidos com base na aplicação dos microdados do 
 - `Áreas de Ponderação Urbanas_Jacareí-SP.png`
 
 > Todos os mapas foram espacializados por Área de Ponderação e elaborados no QGIS.
-
-
-## 🗺️ Visualizações por componente
-
-### Déficit por domicílio (total)
-![Déficit total por domicílios](./mapas/Total%20do%20Déficit%20Habitacional%20por%20domicílios.png)
-
-### Habitação precária
-![Habitação precária - domicílio](./mapas/DF_Habitacoes%20Precarias%20por%20domicilios.png)
